@@ -301,9 +301,11 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 1700603540013	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofilegPQZdl"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ettings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700603554320	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -485,13 +487,13 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 1700604088289	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-/ipc/chromium/src/chrome/common/ipc_channel_win.cc:454
-Exiting due to channel error.
-A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
-1700604585080	Marionette	INFO	Stopped listening on port 62448
-Dynamically enable window occlusion 1
-remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700604159168	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1700604159242	Marionette	INFO	Listening on port 62808
@@ -528,13 +530,11 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
- settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700604203785	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700604203853	Marionette	INFO	Listening on port 63251
+ette	INFO	Listening on port 63251
 Read port: 63251
 1700604204024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -602,10 +602,13 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 1700604394245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofileB04h9x"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1700604491941	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1700604492078	Marionette	INFO	Listening on port 64230
@@ -638,13 +641,12 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
- settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700604532435	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700604532502	Marionette	INFO	Listening on port 64676
+ette	INFO	Listening on port 64676
 Read port: 64676
 1700604532692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -675,11 +677,11 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
- settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700604576596	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700604576703	Marionette	INFO	Listening on port 65132
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ette	INFO	Listening on port 65132
 Read port: 65132
 1700604576902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -1089,3 +1091,38 @@ JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=
 1700605449409	Marionette	INFO	Stopped listening on port 52244
 Dynamically enable window occlusion 1
 JavaScript error: https://qcpi.questcdn.com/static/assets/js/scripts.js, line 4269: NS_ERROR_NOT_INITIALIZED: 
+1700606103190	geckodriver	INFO	Listening on 127.0.0.1:52877
+1700606106259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofileaPFW1U"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700606106607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700606106663	Marionette	INFO	Listening on port 52889
+Read port: 52889
+1700606106827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
+1700606113743	Marionette	INFO	Stopped listening on port 52889
+JavaScript warning: https://qcpi.questcdn.com/static/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js, line 59: Script terminated by timeout at:
+d@https://qcpi.questcdn.com/static/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js:59:3290
+
+Dynamically enable window occlusion 1
+1700606114731	geckodriver	INFO	Listening on 127.0.0.1:52960
+1700606117741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofilezEXs4z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700606118236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700606118413	Marionette	INFO	Listening on port 53011
+Read port: 53011
+1700606118751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
+1700606129678	Marionette	INFO	Stopped listening on port 53011
+Dynamically enable window occlusion 1
