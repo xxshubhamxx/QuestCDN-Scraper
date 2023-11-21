@@ -305,18 +305,17 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-ettings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700603554320	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700603554377	Marionette	INFO	Listening on port 60896
-Read port: 60896
-1700603554510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.error: ({})
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qcpi.questcdn.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qcpi.questcdn.com."
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
-1700603584699	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+em addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 e" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofile1IEpW3"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -493,12 +492,11 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
- MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700604159168	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700604159242	Marionette	INFO	Listening on port 62808
-Read port: 62808
-1700604159412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+emoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.error: ({})
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
@@ -532,14 +530,13 @@ JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-ette	INFO	Listening on port 63251
-Read port: 63251
-1700604204024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.error: ({})
-JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+Error: mmLoadMenus is not defined
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
 1700604209991	Marionette	INFO	Stopped listening on port 63251
 JavaScript warning: https://qcpi.questcdn.com/static/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js, line 59: Script terminated by timeout at:
@@ -608,12 +605,11 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
- MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1700604491941	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1700604492078	Marionette	INFO	Listening on port 64230
-Read port: 64230
-1700604492393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+emoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.error: ({})
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
@@ -644,14 +640,12 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: consolconsole.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-ette	INFO	Listening on port 64676
-Read port: 64676
-1700604532692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.error: ({})
-JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+Error: mmLoadMenus is not defined
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
 1700604538500	Marionette	INFO	Stopped listening on port 64676
 JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js, line 3: Script terminated by timeout at:
@@ -681,12 +675,13 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
-ette	INFO	Listening on port 65132
-Read port: 65132
-1700604576902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.error: ({})
-JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+Error: mmLoadMenus is not defined
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
 [GFX1-]: wr_renderer_render: OutOfMemory
 [GFX1-]: Handling webrender error 2
@@ -1125,4 +1120,39 @@ console.error: ({})
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
 JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
 1700606129678	Marionette	INFO	Stopped listening on port 53011
+Dynamically enable window occlusion 1
+1700606170367	geckodriver	INFO	Listening on 127.0.0.1:53331
+1700606173422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofileWyPeiu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700606173847	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700606173924	Marionette	INFO	Listening on port 53341
+Read port: 53341
+1700606174123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
+1700606179939	Marionette	INFO	Stopped listening on port 53341
+JavaScript warning: https://qcpi.questcdn.com/static/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js, line 59: Script terminated by timeout at:
+d@https://qcpi.questcdn.com/static/assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js:59:3290
+
+Dynamically enable window occlusion 1
+1700606180936	geckodriver	INFO	Listening on 127.0.0.1:53404
+1700606183967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\shubh\\AppData\\Local\\Temp\\rust_mozprofileHImmxe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700606184404	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700606184503	Marionette	INFO	Listening on port 53457
+Read port: 53457
+1700606184847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 891: ReferenceError: mmLoadMenus is not defined
+JavaScript error: https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787, line 915: ReferenceError: MM_preloadImages is not defined
+1700606194924	Marionette	INFO	Stopped listening on port 53454
 Dynamically enable window occlusion 1

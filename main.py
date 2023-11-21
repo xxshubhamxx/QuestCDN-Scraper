@@ -9,9 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import concurrent.futures
 import time
 
-# Set the path to your GeckoDriver executable
-gecko_driver_path = '../geckodriver.exe'
-
 url = "https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787"
 
 q_num = []
