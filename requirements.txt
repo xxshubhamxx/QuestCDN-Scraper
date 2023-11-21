@@ -4,4 +4,4 @@ webdriver-manager==3.2.1
 beautifulsoup4==4.8.2
 multiprocess==0.70.12.2
 multithreading==0.2.0
-DateTime==4.5
+gunicorn==20.1.0
