@@ -1,0 +1,42 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Scraper</title>
+    <style>
+        /* Your existing CSS styles */
+    </style>
+    <script>
+        function toggleLoading() {
+            const overlay = document.createElement('div');
+            overlay.style.position = 'fixed';
+            overlay.style.top = '0';
+            overlay.style.left = '0';
+            overlay.style.width = '100vw';
+            overlay.style.height = '100vh';
+            overlay.style.backgroundImage = "url('../static/css/loading.gif')"; // Replace with your image path
+            overlay.style.backgroundSize = 'cover';
+            overlay.style.zIndex = '9999';
+            document.body.appendChild(overlay);
+
+            // Redirect to '/scrape' after a delay to simulate loading (for demonstration)
+            setTimeout(() => {
+                window.location.href = '/scrape'; // Redirect to '/scrape' after a delay (for demo)
+            }, 3000); // Change delay time as needed or replace with actual functionality
+        }
+    </script>
+</head>
+<body>
+    <form action="/scrape" method="GET" onsubmit="toggleLoading()">
+        <label for="group">Group:</label>
+        <input type="text" id="group" name="group" value="{{ default_group }}"><br><br>
+        
+        <label for="provider">Provider:</label>
+        <input type="text" id="provider" name="provider" value="{{ default_provider }}"><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
