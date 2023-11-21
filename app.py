@@ -29,7 +29,7 @@ def index():
 # Function 1
 def function_one():
     print("Function 1 started")
-    driver1 = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver1 = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
     driver1.get(url)
     driver1.implicitly_wait(3)
 
@@ -63,7 +63,7 @@ def function_one():
 # Function 2
 def function_two():
     print("Function 2 started")
-    driver2 = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver2 = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
     driver2.get(url)
     driver2.implicitly_wait(3)
 
@@ -97,7 +97,7 @@ def function_two():
 # Function 3
 def function_three():
     print("Function 3 started")
-    driver3 = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver3 = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
     driver3.get(url)
     driver3.implicitly_wait(3)
 
@@ -131,7 +131,7 @@ def function_three():
 # Function 4
 def function_four():
     print("Function 4 started")
-    driver4 = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver4 = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
     driver4.get(url)
     driver4.implicitly_wait(3)
 
@@ -165,7 +165,7 @@ def function_four():
 # Function 5
 def function_five():
     print("Function 5 started")
-    driver5 = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver5 = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
     driver5.get(url)
     driver5.implicitly_wait(3)
 
@@ -216,7 +216,7 @@ def scrape_data():
     options = Options()
     options.headless = True  # Set to False to see the browser
 
-    driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+    driver = webdriver.Firefox(executable_path="./geckodriver.exe", options=options)
 
     url = f"https://qcpi.questcdn.com/cdn/posting/?group={group}&provider={provider}"
     driver.get(url)
