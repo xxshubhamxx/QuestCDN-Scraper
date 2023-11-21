@@ -1,3 +1,5 @@
+<!-- templates/result.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,22 +7,28 @@
     <title>Scraped Data</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}"
 </head>
 <body>
     <h1>Scraped Data</h1>
     <div id="loading"></div>
     <div id="content">
-        <ul>
+        <table>
+            <tr>
+                <th>Quest Number</th>
+                <th>Description</th>
+                <th>Est Value</th>
+                <th>Closing Date</th>
+            </tr>
             {% for post in postings %}
-                <li>
-                    Quest Number: {{ post['Quest Number'] }} <br>
-                    Description: {{ post['Description'] }} <br>
-                    Est Value: {{ post['Est Value'] }} <br>
-                    Closing Date: {{ post['Closing Date'] }} <br><br>
-                </li>
+                <tr>
+                    <td>{{ post['Quest Number'] }}</td>
+                    <td>{{ post['Description'] }}</td>
+                    <td>{{ post['Est Value'] }}</td>
+                    <td>{{ post['Closing Date'] }}</td>
+                </tr>
             {% endfor %}
-        </ul>
+        </table>
     </div>
-    
 </body>
 </html>

@@ -14,9 +14,7 @@ function toggleContent() {
     document.getElementById("content").style.display = "block";
 }
 
-/* static/js/script.js */
 
-// Function to show/hide preloader and content
 function togglePreloader(show) {
     const preloader = document.getElementById("loading");
     const content = document.getElementById("content");
@@ -30,17 +28,17 @@ function togglePreloader(show) {
     }
 }
 
-// Function to handle form submission
-function handleFormSubmit() {
-    togglePreloader(true); // Show preloader on form submit
 
-    // Add a slight delay to mimic processing (remove this in actual usage)
+function handleFormSubmit() {
+    togglePreloader(true); 
+
+    
     setTimeout(() => {
-        togglePreloader(false); // Hide preloader after some delay (for demo)
-    }, 3000); // Change delay time as needed or replace with actual functionality
+        togglePreloader(false); 
+    }, 3000); 
 }
 
-// Event listener for form submission
+
 document.addEventListener("DOMContentLoaded", function() {
     const form = document.getElementById("scrapeForm");
     form.addEventListener("submit", function(event) {
