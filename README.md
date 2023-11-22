@@ -15,6 +15,8 @@ $ pip install -r requirements.txt
 ├── README.md
 ├── app.py
 ├── requirements.txt
+├── geckodriver.exe
+├── Dockerfile
 ├── static
 │   ├── css
 │   │   ├── index.css
