@@ -222,6 +222,13 @@ def scrape_data():
     driver.get(url)
 
     driver.implicitly_wait(5)
+    
+    wait = WebDriverWait(driver, 10)
+    WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.XPATH, "//div[@id='preloader'][@ng-show='loading']")))
+    sort_button = wait.until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[2]/div[2]/div[2]/div/div[3]/div[6]/div/div/div/div[3]/div/table/thead/tr[1]/th[1]/a")))
+    sort_button.click()
+    driver.implicitly_wait(5)
+    time.sleep(3)
     html = driver.page_source
 
     soup = BeautifulSoup(html, 'html.parser')
